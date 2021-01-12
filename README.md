@@ -5,5 +5,7 @@ A short implementation of a KNN
 
 Please execute the script main with python
 
-'''python main.py
-'''
+```python
+s = "Python syntax highlighting"
+print s
+```
